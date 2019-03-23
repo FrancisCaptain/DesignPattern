@@ -1,4 +1,17 @@
-https://github.com/FrancisCaptain/DesignPattern/blob/master/Factory/src/main/resources/%E5%B7%A5%E5%8E%82%E6%96%B9%E6%B3%95%E6%A8%A1%E5%BC%8FUML.png?raw=true)
+### 三种工厂模式之间的区别
+
+| 工厂模式         | 需要提供需求给工厂创造产品，小作坊式的生产                   |
+| ---------------- | ------------------------------------------------------------ |
+| **工厂方法模式** | **每个工厂只针对一个产品等级结构，指定的工厂去创建指定的类别** |
+| **抽象工厂模式** | **工厂可以针对多个产品等级结构，不止单一的类别，可以供用户去选择** |
+
+### 工厂模式UML
+
+![工厂模式](https://github.com/FrancisCaptain/DesignPattern/blob/master/Factory/src/main/resources/%E7%AE%80%E5%8D%95%E5%B7%A5%E5%8E%82%E6%A8%A1%E5%BC%8FUML.png?raw=true)
+
+### 工厂方法模式UML
+
+![工厂方法模式](https://github.com/FrancisCaptain/DesignPattern/blob/master/Factory/src/main/resources/%E5%B7%A5%E5%8E%82%E6%96%B9%E6%B3%95%E6%A8%A1%E5%BC%8FUML.png?raw=true)
 
 ### 抽象工厂模式UML
 
